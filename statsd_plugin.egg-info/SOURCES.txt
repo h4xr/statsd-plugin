@@ -1,8 +1,8 @@
 MANIFEST.in
 README.rst
 setup.py
-statsd-plugin/StatsdPlugin.py
-statsd-plugin/__init__.py
+statsd_plugin/StatsdPlugin.py
+statsd_plugin/__init__.py
 statsd_plugin.egg-info/PKG-INFO
 statsd_plugin.egg-info/SOURCES.txt
 statsd_plugin.egg-info/dependency_links.txt
