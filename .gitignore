@@ -1,0 +1,13 @@
+#Python gitignore
+
+#Virtual Environment
+venv
+
+#Python caches
+*.pyc
+
+#Template files
+*.tmpl
+
+#Temporary Directory
+tmp/

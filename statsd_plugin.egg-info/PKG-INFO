@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: statsd-plugin
+Version: 0.1.0
+Summary: A simple library to write plugins for statsd
+Home-page: https://github.com/h4xr/statsd-plugin
+Author: Saurabh Badhwar
+Author-email: sbsaurabhbadhwar9@gmail.com
+License: MIT
+Description: **StatsD Plugin**
+        
+        Package provides a library to build new plugins for StatsD
+        
+        Plugins built here follows a python class based implementation and are executed in parallel on the system to collect and report the metrics to the StatsD server.
+        
+        **Note**: The project is currently in early stages of development and may be unstable for production use.
+        
+Keywords: statsd plugin development
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
